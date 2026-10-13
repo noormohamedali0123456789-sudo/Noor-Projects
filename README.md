@@ -1,9 +1,8 @@
 ### PromptGuard
 
 
-###Video Demo:
 
-https://youtu.be/q6Yis5DHUKs
+
 
 
 
